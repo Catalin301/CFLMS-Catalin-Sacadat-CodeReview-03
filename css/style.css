@@ -1,0 +1,632 @@
+.one{
+
+	float:right;
+	margin-right:10%;
+	margin-top:2%;
+	
+}
+
+.two{
+	float:left;
+	margin-left:5%; 
+	margin-top: 2.5%;
+	width:15%;
+}
+
+.three{
+	background-image:url(../img/traffic-332857_1920.jpg);
+	/*-webkit-background-size:cover;*/
+	background-size:cover;
+	background-repeat: no-repeat;
+	/*background-position:center center;*/ 
+
+	/*width:100%;*/
+	height:800px;
+}
+
+.four{
+	/*margin-left: 600px;*/
+	padding-left: 70%;
+	padding-top: 16px;
+
+}
+
+/*Design for team.html*/
+
+.fbox{
+	display:flex;
+	justify-content: space-around; 
+}
+
+.six{
+	margin-left: 650px;
+	font-size:3em; 
+}
+
+.seven{
+	width:250px;
+	height:200px; 
+
+}
+
+.eight{
+	width:250px;
+	height:200px; 
+
+}
+
+.nine{
+	width:250px;
+	height:200px; 
+
+}
+
+.fritz{
+	font-size: 1.2em;
+	color:black;
+
+
+
+}
+
+.bill{
+	font-size: 1.2em;
+	color:black;
+}
+
+.franz{
+	font-size: 1.2em;
+	color:black;
+	
+}
+
+.ten{
+	margin-left: 720px;
+	font-size:1.5em;
+	color: black; 
+}
+
+.car{
+	margin-left:30%; 
+	width:45%;
+	/*height:15%;*/
+
+
+}
+/*End of team.html design*/
+
+
+.divheader{
+
+	background:#2F4F4F;
+	width:100%;
+	height:135px;
+}
+
+nav{
+	float:left;
+	/*height:2.1em;*/
+	text-align:left;
+	background-color:#708090;
+	width:100%;
+}
+
+a{
+	font-weight:bold;
+	font-size:1.5em;
+	color:white;
+	padding:10px;
+}
+
+.navli{
+	display:inline;
+}
+
+p{
+	font-weight:bold;
+	font-size:1.1em;
+	color:white;
+}
+
+.arrow{
+	
+	font-size:3em;
+	color:white;
+	font-family:Arial, Helvetica, sans-serif;  
+	margin-left:15%;
+	padding-top:5%; 
+}
+
+.knight{
+	font-size:3em;
+	padding-left:10%;
+	font-family:serif;
+}
+
+.label{
+	font-size:2em;
+	padding-left:3%; 
+	 
+}
+
+.bell{
+	font-size:2em;
+	/*margin-right:10%;*/
+	float:center;
+	padding-left:17%;  
+}
+
+#yname{
+
+	width:25%;
+	height:30px; 
+	
+}
+
+#age{
+	width:25%;
+	height:30px; 	
+}
+
+#country{
+	width:25%;
+	height:40px; 
+	margin-left:3.5%;
+}
+
+#horse{
+	width:25%;
+	height:30px; 
+	margin-left:66%; 
+}
+
+#result{
+	padding-left:40%;
+	font-size:1.2em;
+	font-family:Impact, Charcoal, sans-serif;  
+}
+
+.flash{
+	font-size:1.1em;
+	color:black;
+	padding-left: 50%; 
+}
+
+.blue{
+	border:solid black;
+	width:70%;
+	height:75%;
+	background-color:; 
+	margin-left:15%;
+	margin-top: 5%;
+	background-color: lightgrey;
+	/*opacity:0.5;*/
+	background: rgba(204, 204, 204, 0.5);  
+}
+
+
+#btnCalc{
+	width:20%;
+	height:50px;
+	color:white;
+	font-size:2em;
+	font-family: "Times, Times New Roman", serif;
+	margin-left:40%;
+	margin-top: 8%;
+	border-radius:10px;
+	background-color: green; 
+
+}
+
+.box{
+	/*border:1px;*/
+	width:100%;
+	height:160px;
+	background-color: lightgrey;
+}
+
+.clark{
+	color:#696969;
+	font-size:2em;
+	padding-left:40%;
+	position:absolute; 
+}
+
+.kent{
+	color:#696969;
+	font-size:1.3em;
+	padding-left:35%;
+	position: absolute;  
+}
+
+.lyla{
+	color:#696969;
+	font-size:1.3em;
+	padding-left:38%; 
+	position:absolute;
+}
+
+.jack{
+	color:#696969;
+	font-size:1.3em;
+	padding-left:42%;
+	position:absolute;  
+}
+
+.container{
+	display:flex;
+	justify-content: space-around;
+}
+
+.small{
+	
+	/*float:left;*/
+	border:1px solid grey;
+	width:25%;
+}
+
+ .ville{
+ 	border:1px solid grey;
+ 	width:25%;
+}
+
+ .points{
+ 	list-style-type: none;
+ 	font-size:1.1em; 
+ }
+
+ .time{
+ 	color:grey;
+ 	font-size:1.6em;
+ 	padding-left:5%;  
+ }
+
+ .just{
+ 	color:grey;
+ 	font-size: 1.4em;
+ 	padding-left:5%;
+ }
+
+ .cyber{
+ 	font-size: 1.2em;
+ 	color:black bold;
+ 	padding-left: 5%;
+ }
+
+ .power{
+ 	color:grey;
+ 	font-size:1.1em;
+ 	padding-left: 5%;
+ 	padding-right: 5% 
+ }
+
+
+
+footer{
+	
+	overflow:auto;
+   	height: 175px;
+   	width: 100%;
+	background-color:#2F4F4F;
+	text-align:center;
+}
+
+@media  screen  and (max-width:480px){
+
+.one{
+
+	float:right;
+	margin-right:10%;
+	margin-top:2%;
+	
+}
+
+.two{
+	float:left;
+	margin-left:5%; 
+	margin-top: 2.5%;
+	width:15%;
+}
+
+.three{
+	background-image:url(img/traffic-332857_1920.jpg);
+	/*-webkit-background-size:cover;*/
+	background-size:cover;
+	background-repeat: no-repeat;
+	/*background-position:center center;*/ 
+
+	/*width:100%;*/
+	height:800px;
+}
+
+.four{
+	/*margin-left: 600px;*/
+	padding-left: 70%;
+	padding-top: 16px;
+
+}
+
+/*Design for team.html*/
+
+.fbox{
+	display:flex;
+	justify-content: space-around; 
+}
+
+.six{
+	margin-left: 650px;
+	font-size:3em; 
+}
+
+.seven{
+	width:250px;
+	height:200px; 
+
+}
+
+.eight{
+	width:250px;
+	height:200px; 
+
+}
+
+.nine{
+	width:250px;
+	height:200px; 
+
+}
+
+.fritz{
+	font-size: 1.2em;
+	color:black;
+
+
+
+}
+
+.bill{
+	font-size: 1.2em;
+	color:black;
+}
+
+.franz{
+	font-size: 1.2em;
+	color:black;
+	
+}
+
+.ten{
+	margin-left: 720px;
+	font-size:1.5em;
+	color: black; 
+}
+
+.car{
+	margin-left:30%; 
+	width:45%;
+	/*height:15%;*/
+
+
+}
+/*End of team.html design*/
+
+
+.divheader{
+
+	background:#2F4F4F;
+	width:100%;
+	height:135px;
+}
+
+nav{
+	float:left;
+	/*height:2.1em;*/
+	text-align:left;
+	background-color:#708090;
+	width:100%;
+}
+
+a{
+	font-weight:bold;
+	font-size:1.5em;
+	color:white;
+	padding:10px;
+}
+
+.navli{
+	display:inline;
+}
+
+p{
+	font-weight:bold;
+	font-size:1.1em;
+	color:white;
+}
+
+.arrow{
+	
+	font-size:3em;
+	color:white;
+	font-family:Arial, Helvetica, sans-serif;  
+	margin-left:15%;
+	padding-top:5%; 
+}
+
+.knight{
+	font-size:3em;
+	padding-left:10%;
+	font-family:serif;
+}
+
+.label{
+	font-size:2em;
+	padding-left:3%; 
+	 
+}
+
+.bell{
+	font-size:2em;
+	/*margin-right:10%;*/
+	float:center;
+	padding-left:17%;  
+}
+
+#yname{
+
+	width:25%;
+	height:30px; 
+	
+}
+
+#age{
+	width:25%;
+	height:30px; 	
+}
+
+#country{
+	width:25%;
+	height:40px; 
+	margin-left:3.5%;
+}
+
+#horse{
+	width:25%;
+	height:30px; 
+	margin-left:66%; 
+}
+
+#result{
+	padding-left:40%;
+	font-size:1.2em;
+	font-family:Impact, Charcoal, sans-serif;  
+}
+
+.flash{
+	font-size:1.1em;
+	color:black;
+	padding-left: 50%; 
+}
+
+.blue{
+	border:solid black;
+	width:70%;
+	height:75%;
+	background-color:; 
+	margin-left:15%;
+	margin-top: 5%;
+	background-color: lightgrey;
+	/*opacity:0.5;*/
+	background: rgba(204, 204, 204, 0.5);  
+}
+
+
+#btnCalc{
+	width:20%;
+	height:50px;
+	color:white;
+	font-size:2em;
+	font-family: "Times, Times New Roman", serif;
+	margin-left:40%;
+	margin-top: 8%;
+	border-radius:10px;
+	background-color: green; 
+
+}
+
+.box{
+	/*border:1px;*/
+	width:100%;
+	height:160px;
+	background-color: lightgrey;
+}
+
+.clark{
+	color:#696969;
+	font-size:2em;
+	padding-left:40%;
+	position:absolute; 
+}
+
+.kent{
+	color:#696969;
+	font-size:1.3em;
+	padding-left:35%;
+	position: absolute;  
+}
+
+.lyla{
+	color:#696969;
+	font-size:1.3em;
+	padding-left:38%; 
+	position:absolute;
+}
+
+.jack{
+	color:#696969;
+	font-size:1.3em;
+	padding-left:42%;
+	position:absolute;  
+}
+
+.container{
+	display:flex;
+	justify-content: space-around;
+}
+
+.small{
+	
+	/*float:left;*/
+	border:1px solid grey;
+	width:25%;
+}
+
+ .ville{
+ 	border:1px solid grey;
+ 	width:25%;
+}
+
+ .points{
+ 	list-style-type: none;
+ 	font-size:1.1em; 
+ }
+
+ .time{
+ 	color:grey;
+ 	font-size:1.6em;
+ 	padding-left:5%;  
+ }
+
+ .just{
+ 	color:grey;
+ 	font-size: 1.4em;
+ 	padding-left:5%;
+ }
+
+ .cyber{
+ 	font-size: 1.2em;
+ 	color:black bold;
+ 	padding-left: 5%;
+ }
+
+ .power{
+ 	color:grey;
+ 	font-size:1.1em;
+ 	padding-left: 5%;
+ 	padding-right: 5% 
+ }
+
+
+
+footer{
+	
+	overflow:auto;
+   	height: 175px;
+   	width: 100%;
+	background-color:#2F4F4F;
+	text-align:center;
+}
+
+}
+
+
+
